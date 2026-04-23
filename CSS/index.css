@@ -1,21 +1,17 @@
 *{ 
-    width:100%;
-    height:100%;
-padding: 0;
+ddinght0;
 margin : 0;
 box-sizing: border-box;
 font-family: sans-serif;
 text-decoration: none;
 }
+. body{
+     width:100%;
+        height:100%;
+} 
 :root{
 --bgColor :#080e1c;
---Textwhite :#fff;
-
-}
-
-
-
-.hero{
+--Textwhite :#fff;decorationero{
     background: var(--bgColor);
     vh;
     overflow: hidden;
